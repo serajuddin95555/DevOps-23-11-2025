@@ -1,0 +1,1 @@
+user2 page is created to store user2 data
